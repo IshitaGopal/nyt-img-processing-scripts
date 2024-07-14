@@ -1,0 +1,13 @@
+name: nyt-img-processing-scripts
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - python-dotenv
+  - pandas
+  - matplotlib
+  - transformers
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - black
